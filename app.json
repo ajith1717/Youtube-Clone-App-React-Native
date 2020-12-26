@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "aj.apk",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
